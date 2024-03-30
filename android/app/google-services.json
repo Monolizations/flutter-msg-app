@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901946726100",
+    "project_id": "katalks-7e05c",
+    "storage_bucket": "katalks-7e05c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901946726100:android:9be0826f121ac616c04d41",
+        "android_client_info": {
+          "package_name": "com.example.katalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVikXm7A6O3GFJJRNmkSJv_O6pMqqq7pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
